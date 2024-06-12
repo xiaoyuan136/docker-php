@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     unzip \
     libevent-dev \
     pkg-config \
-    libssl-dev \ 
+    libssl-dev \
 	libz-dev \
     libjpeg-dev \
     libpng-dev \
